@@ -11,7 +11,7 @@
         android:layout_marginBottom="8dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="8dp"
-        android:src="@drawable/ic_launcher" />
+        android:src="@drawable/no_image" />
 
 
     <TextView
